@@ -36,4 +36,3 @@ class TestEn2FrMethod(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-    
